@@ -1,0 +1,70 @@
+\\ ndetectors 
+\\ 2 
+\\ name time nnewblocks %ofnewborderconss %ofnewblockconss %ofnewlinkingvars %ofnewblockvars  
+\\ consclass 0.000187 0 0.333333 0.000000 0.000000 0.000000 
+\\ connectedbase 0.000053 6 0.000000 0.000000 0.000000 1.000000 
+PRESOLVED
+0
+NBLOCKS
+6
+BLOCK 1
+conflict_1
+conflict_7
+conflict_19
+conflict_25
+conflict_31
+conflict_37
+BLOCK 2
+conflict_2
+conflict_8
+conflict_20
+conflict_26
+conflict_32
+conflict_38
+BLOCK 3
+conflict_3
+conflict_9
+conflict_21
+conflict_27
+conflict_33
+conflict_39
+BLOCK 4
+conflict_4
+conflict_10
+conflict_22
+conflict_28
+conflict_34
+conflict_40
+BLOCK 5
+conflict_5
+conflict_11
+conflict_23
+conflict_29
+conflict_35
+conflict_41
+BLOCK 6
+conflict_6
+conflict_12
+conflict_24
+conflict_30
+conflict_36
+conflict_42
+MASTERCONSS
+assign_1
+assign_2
+assign_3
+assign_4
+assign_5
+assign_6
+assign_7
+assign_8
+assign_9
+assign_10
+assign_11
+assign_12
+conflict_13
+conflict_14
+conflict_15
+conflict_16
+conflict_17
+conflict_18
